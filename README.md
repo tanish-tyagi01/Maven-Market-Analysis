@@ -4,9 +4,13 @@ I conducted a data analysis project on the Maven Market dataset (269,720 transac
 
 ## 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
 🔹 Revenue Growth → Monthly revenue showed a strong upward trend, with 1998 nearly doubling 1997’s revenue.
+
 🔹 Regional Performance → The USA contributed the highest revenue, significantly ahead of Mexico and Canada.
+
 🔹 Profitability → The business generated $1.05M in profit, proving a strong overall margin.
+
 🔹 Customer Segments → Majority of revenue came from individuals in the $10K–$50K income bracket, with Adults (35.8%) and 60+ (40.55%) as the leading age groups.
+
 🔹 Store Types → Supermarkets and Deluxe Supermarkets emerged as the biggest revenue drivers.
 
 ## 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
