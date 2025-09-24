@@ -11,6 +11,9 @@ I conducted a data analysis project on the Maven Market dataset (269,720 transac
 
 ## 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
 ✅ Promote “Hermanos” → Invest in marketing & inventory for this top-performing brand.
+
 ✅ Address Regional Gaps → Investigate performance gaps in Canada & Mexico with targeted strategies.
+
 ✅ Revenue Monitoring → Track monthly/regional revenue continuously to adjust strategies early.
+
 ✅ Replicate Success → Scale successful supermarket models across other regions to sustain profitability.
