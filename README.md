@@ -14,3 +14,5 @@ I conducted a data analysis project on the Maven Market dataset (269,720 transac
 ✅ Address Regional Gaps → Investigate performance gaps in Canada & Mexico with targeted strategies.  
 ✅ Revenue Monitoring → Track monthly/regional revenue continuously to adjust strategies early.  
 ✅ Replicate Success → Scale successful supermarket models across other regions to sustain profitability.  
+<img width="825" height="488" alt="1" src="https://github.com/user-attachments/assets/aa1290fd-733a-4345-9580-51f2e2416540" />
+<img width="818" height="478" alt="2" src="https://github.com/user-attachments/assets/5a1a89c1-b3c6-4e05-9ab4-6a6cf954a4e4" />
